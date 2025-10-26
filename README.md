@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="https://github.com/Ducr/Ducr/blob/main/README.md">English</a> •
+  <a href="https://github.com/Ducr/Ducr/blob/main/README_zh.md">中文</a>
+</p>
+
+<div id="English">
+
 <h1 align="center">Hi, I'm Ducr 👋</h1>
 <h3 align="center">Frontend Developer with 8 Years Experience | Focused on Next.js & Modern Frontend Architecture</h3>
 

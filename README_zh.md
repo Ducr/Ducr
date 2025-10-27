@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/Ducr/Ducr/blob/main/README.md">English</a> •
-  <a href="https://github.com/Ducr/Ducr/blob/main/README_zh.md">中文</a>
+  <a href="./README.md">English</a> •
+  中文
 </p>
 
 <div id="中文">

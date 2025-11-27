@@ -69,7 +69,7 @@
   <img src="https://streak-stats.demolab.com/?user=Ducr&theme=radical&hide_border=true" />
 </div>
 
-## 🎯 精选项目
+<!-- ## 🎯 精选项目
 
 ### 🚀 全栈应用
 | 项目 | 描述 | 技术栈 |
@@ -81,4 +81,4 @@
 ### 📦 开源作品
 - **[DateTime Picker Pro](https://www.npmjs.com/package/date-time-picker-pro)** 🎯 - 功能强大的日期时间选择器组件
 - **[UI 组件库](https://github.com/Ducr/ducr-ui-vue)** - 基于 Vue3 + TypeScript 构建的企业级组件库
-- **[工具函数库](https://github.com/Ducr/utils)** - 日常开发中提炼的实用工具函数集合
+- **[工具函数库](https://github.com/Ducr/utils)** - 日常开发中提炼的实用工具函数集合 -->

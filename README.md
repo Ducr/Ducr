@@ -66,10 +66,10 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ducr&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=你的用户名&theme=radical&hide_border=true&refresh=12345" />
 </div>
 
-## 🎯 Featured Projects
+<!-- ## 🎯 Featured Projects
 
 ### 🚀 Full-stack Applications
 | Project | Description | Tech Stack |
@@ -81,4 +81,4 @@
 ### 📦 Open Source Works
 - **[DateTime Picker Pro](https://www.npmjs.com/package/date-time-picker-pro)** 🎯 - Powerful date time picker component
 - **[UI Component Library](https://github.com/Ducr/ducr-ui-vue)** - Enterprise-level components built with Vue3 + TypeScript
-- **[Utility Library](https://github.com/Ducr/utils)** - Collection of practical utility functions
+- **[Utility Library](https://github.com/Ducr/utils)** - Collection of practical utility functions -->

@@ -61,12 +61,12 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ducr&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ducr?theme=radical&cardType=level&hide_border=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ducr&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ducr&theme=radical&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Ducr&theme=radical&hide_border=true&locale=zh&refresh=12345" />
 </div>
 
 <!-- ## 🎯 精选项目

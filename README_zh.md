@@ -6,7 +6,7 @@
 <div id="中文">
 
 <h1 align="center">你好，我是 Ducr 👋</h1>
-<h3 align="center">拥有 8 年经验的前端开发工程师 | 专注于 Next.js 与现代化前端架构</h3>
+<h3 align="center">8+ 年高级前端工程师 · Next.js / 现代 Web</h3>
 
 <p align="center">
   <a href="https://ducrong.com" target="_blank">🌐 个人主页</a> •
@@ -20,37 +20,38 @@
 
 ## 🚀 关于我
 
-- 🎯 8 年前端开发经验，专注 **2B/2G 项目** 与 **全栈解决方案**
-- 🔭 目前正在开发 **Next.js 全栈项目** 和 **企业级微前端架构**
-- 🌱 正在学习 **AI 工程化** 和 **高级性能优化技术**
-- 📦 开源贡献者，发布 **date-time-picker-pro** 等 npm 包
-- 💻 个人主页: [ducrong.com](https://ducrong.com)
-- 💬 技术咨询: **Vue、React、Next.js、微前端、性能优化**
-- 📫 联系邮箱: **ducrong@126.com**
+- 👨‍💻 **8+ 年高级前端工程师**，专注 **Next.js 与现代 Web 应用**
+- 🧩 日常主要做 **中后台 / 管理系统 / B2B / B2G**，偏重架构与工程化
+- 🔭 目前在折腾 **Next.js 全栈项目、微前端方案与企业级后台脚手架**
+- 🌱 正在探索 **AI 辅助开发、前端性能优化** 等方向
+- 📦 开源作者：**[date-time-picker-pro](https://www.npmjs.com/package/date-time-picker-pro)** 等 npm 包
+- 💬 欢迎交流：**Vue / React / Next.js / 微前端 / 前端架构**
+- 📫 联系方式：**ducrong@126.com** · [`ducrong.com`](https://ducrong.com)
 
 ## 🛠 技术栈
 
-### 前端框架
+### 前端
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Vue3](https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### 状态管理 & UI 库
+### 状态管理 & UI 组件
 ![Pinia](https://img.shields.io/badge/Pinia-FFD02F?style=for-the-badge&logo=vue.js&logoColor=black)
 ![Zustand](https://img.shields.io/badge/Zustand-764ABC?style=for-the-badge)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
 ![Element Plus](https://img.shields.io/badge/Element_Plus-409EFF?style=for-the-badge)
 
-### 跨端开发 & 构建工具
+### 跨端 & 工程化
 ![Taro](https://img.shields.io/badge/Taro-FF2D54?style=for-the-badge&logo=wechat&logoColor=white)
 ![微信小程序](https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 后端 & 架构技术
+### 后端 & 架构
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -58,27 +59,26 @@
 ![微前端](https://img.shields.io/badge/微前端-6B46C1?style=for-the-badge&logo=webcomponents&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
 
+## 📦 开源与项目
+
+- **[date-time-picker-pro](https://www.npmjs.com/package/date-time-picker-pro)** · 生产可用的日期时间选择器组件。
+- **[Homepage](https://github.com/Ducr/homepage)** · **Next.js / TypeScript / Tailwind CSS** – 支持博客、随笔、项目展示的个人主页模板。
+- **[React Antd Admin](https://github.com/Ducr/react-antd-admin)** · **React / Ant Design / Vite / VitePress** – 带完整文档的中后台管理系统。
+- **[Vue Vben Admin](https://github.com/Ducr/vue-vben-admin-playground)** · **Vue / Vben / Vite / Monorepo** – 基于 vue-vben-admin 的企业级中后台示例仓库。
+- **[AI Chat Web](https://github.com/Ducr/ai-chat-web)** · **Vue3 / Vite / SSE** – 支持流式响应的 AI 对话应用。
+- **[Ducrong UI](https://github.com/Ducr/ducrong-ui)** · **Vue2 / Element UI / VuePress** – 自定义封装的 UI 组件库及在线文档站点。
+- **[Qiankun Demo](https://github.com/Ducr/qiankun-demo)** · **qiankun / Vue / React** – 微前端落地示例，用于演示多应用集成。
+
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="180em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ducr?theme=radical&cardType=level&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ducr&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="160em" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ducr?theme=radical&cardType=level&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ducr&theme=radical&hide_border=true&locale=zh&refresh=12345" />
+  <img src="https://streak-stats.demolab.com/?user=Ducr&theme=radical&hide_border=true&locale=zh" />
 </div>
 
-<!-- ## 🎯 精选项目
-
-### 🚀 全栈应用
-| 项目 | 描述 | 技术栈 |
-|------|------|--------|
-| **[Next.js SaaS 平台](https://github.com/Ducr/your-project)** | 企业级 SaaS 平台，具备实时通信功能 | Next.js 14, TypeScript, Tailwind, WebSocket, MySQL |
-| **[微前端架构方案](https://github.com/Ducr/micro-frontend-demo)** | 基于 qiankun 和模块联邦的生产级微前端方案 | qiankun, Module Federation, Vue3, React18 |
-| **[Taro 多端应用](https://github.com/Ducr/taro-universal)** | 一套代码多端运行的跨端解决方案 | Taro 3, React, TypeScript, 微信/支付宝 |
-
-### 📦 开源作品
-- **[DateTime Picker Pro](https://www.npmjs.com/package/date-time-picker-pro)** 🎯 - 功能强大的日期时间选择器组件
-- **[UI 组件库](https://github.com/Ducr/ducr-ui-vue)** - 基于 Vue3 + TypeScript 构建的企业级组件库
-- **[工具函数库](https://github.com/Ducr/utils)** - 日常开发中提炼的实用工具函数集合 -->
+<p align="center">
+  👉 更多统计可在 <a href="https://github.com/Ducr" target="_blank">GitHub 主页</a> 查看
+</p>
